@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# VSCode settings
+.vscode/
+
+# macOS & Windows
+.DS_Store
+Thumbs.db
+
+# Logs and local files
+*.log
+*.bak
+*.tmp
+
+# PDF/image test files (optional, for you)
+*.pdf
+*.jpg
+*.png
+
+# Output text files (optional, if generated)
+*.txt
+output/
+
+# pip requirements backup (optional)
+requirements.txt.bak
+
+outputs/
